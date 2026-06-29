@@ -13,8 +13,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"Plataforma",
-    "path":"Plataforma.yyp",
+    "name":"Cenas",
+    "path":"folders/Cenas.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
