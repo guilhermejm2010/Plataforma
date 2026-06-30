@@ -6,7 +6,7 @@ horizontalspeed = move * 4;
 
 if (keyboard_check_pressed(ord("W")) && jumps < max_jumps)
 {
-	
+	effect_time = 10;
     verticalspeed = jump_force;
     jumps++;
 }
@@ -48,6 +48,9 @@ if (on_ground)
     jumps = 0;
 }
 
+
+if (!atacando)
+{
 if(!katanaon)
 {
 	if (!on_ground)
@@ -65,6 +68,8 @@ if(!katanaon)
 }
 
 
+
+
 if(katanaon)
 {
 	if (on_ground)
@@ -79,4 +84,40 @@ if(katanaon)
 	{
 		sprite_index = spr_main_right_jump_still_katana
 	}
+}
+}
+
+if (effect_time > 0)
+{
+    effect_time--;
+}	
+
+if(!katanaon)
+{
+if (mouse_check_button_pressed(mb_left) && !atacando)
+{
+    atacando = true;
+    sprite_index = spr_main_rigth_punch;
+    image_index = 0;
+    image_speed = 1;
+}
+}
+
+if(katanaon)
+{
+if (mouse_check_button_pressed(mb_left) && !atacando)
+{
+    atacando = true;
+    sprite_index = spr_main_right_katana_ataque;
+    image_index = 0;
+    image_speed = 1;
+}
+}
+
+if (atacando)
+{
+    if (image_index >= image_number - 1)
+    {
+        atacando = false;
+    }
 }
