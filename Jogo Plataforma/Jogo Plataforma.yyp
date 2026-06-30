@@ -37,6 +37,7 @@
   "resources":[
     {"id":{"name":"obj_floor1_1","path":"objects/obj_floor1_1/obj_floor1_1.yy",},},
     {"id":{"name":"obj_Floor1","path":"objects/obj_Floor1/obj_Floor1.yy",},},
+    {"id":{"name":"obj_inimigo","path":"objects/obj_inimigo/obj_inimigo.yy",},},
     {"id":{"name":"obj_katana","path":"objects/obj_katana/obj_katana.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -55,6 +56,7 @@
     {"id":{"name":"spr_main_right_katana","path":"sprites/spr_main_right_katana/spr_main_right_katana.yy",},},
     {"id":{"name":"spr_main_rigth_punch","path":"sprites/spr_main_rigth_punch/spr_main_rigth_punch.yy",},},
     {"id":{"name":"spr_main_rigth","path":"sprites/spr_main_rigth/spr_main_rigth.yy",},},
+    {"id":{"name":"spr_soul_inimigo","path":"sprites/spr_soul_inimigo/spr_soul_inimigo.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

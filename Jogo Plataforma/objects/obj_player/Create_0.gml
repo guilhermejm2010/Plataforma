@@ -17,3 +17,4 @@ katanaon = false
 effect_time = 0;
 
 atacando = false;
+attack_damage = 0;

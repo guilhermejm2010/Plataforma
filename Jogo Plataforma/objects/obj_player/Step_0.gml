@@ -97,6 +97,7 @@ if(!katanaon)
 if (mouse_check_button_pressed(mb_left) && !atacando)
 {
     atacando = true;
+	attack_damage = 2;
     sprite_index = spr_main_rigth_punch;
     image_index = 0;
     image_speed = 1;
@@ -108,6 +109,7 @@ if(katanaon)
 if (mouse_check_button_pressed(mb_left) && !atacando)
 {
     atacando = true;
+	attack_damage = 5;
     sprite_index = spr_main_right_katana_ataque;
     image_index = 0;
     image_speed = 1;

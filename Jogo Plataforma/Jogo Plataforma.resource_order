@@ -19,6 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"obj_floor1_1","order":2,"path":"objects/obj_floor1_1/obj_floor1_1.yy",},
     {"name":"obj_Floor1","order":1,"path":"objects/obj_Floor1/obj_Floor1.yy",},
+    {"name":"obj_inimigo","order":4,"path":"objects/obj_inimigo/obj_inimigo.yy",},
     {"name":"obj_katana","order":3,"path":"objects/obj_katana/obj_katana.yy",},
     {"name":"spr_floor1_1","order":11,"path":"sprites/spr_floor1_1/spr_floor1_1.yy",},
     {"name":"spr_floor1","order":10,"path":"sprites/spr_floor1/spr_floor1.yy",},
@@ -34,5 +35,6 @@
     {"name":"spr_main_right_katana_ataque","order":15,"path":"sprites/spr_main_right_katana_ataque/spr_main_right_katana_ataque.yy",},
     {"name":"spr_main_rigth_punch","order":13,"path":"sprites/spr_main_rigth_punch/spr_main_rigth_punch.yy",},
     {"name":"spr_main_rigth","order":8,"path":"sprites/spr_main_rigth/spr_main_rigth.yy",},
+    {"name":"spr_soul_inimigo","order":16,"path":"sprites/spr_soul_inimigo/spr_soul_inimigo.yy",},
   ],
 }
