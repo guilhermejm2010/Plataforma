@@ -7,3 +7,5 @@ horizontalspeed = 2;
 vida = 10;
 
 can_take_damage = true;
+flash = 0;
+knockback = 0;

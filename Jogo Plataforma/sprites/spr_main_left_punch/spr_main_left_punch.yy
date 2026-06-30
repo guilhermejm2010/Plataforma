@@ -1,10 +1,10 @@
 {
   "$GMSprite":"v2",
   "%Name":"spr_main_left_punch",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":50,
   "bbox_left":10,
-  "bbox_right":48,
+  "bbox_right":39,
   "bbox_top":14,
   "collisionKind":1,
   "collisionTolerance":0,

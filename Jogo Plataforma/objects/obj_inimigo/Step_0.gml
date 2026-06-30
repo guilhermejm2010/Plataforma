@@ -60,7 +60,16 @@ if (place_meeting(x, y, obj_player))
     if (player.atacando && can_take_damage)
     {
         vida -= player.attack_damage;
+		if (player.x < x)
+{
+    knockback = 10;
+}
+else
+{
+    knockback = -10;
+}
 		can_take_damage = false;
+		flash = 6; 
     }
 }
 if (!obj_player.atacando)
@@ -71,4 +80,26 @@ if (!obj_player.atacando)
 if (vida <= 0)
 {
 instance_destroy()	
+}
+
+if (flash > 0)
+{
+    flash--;
+}
+
+if (knockback != 0)
+{
+    if (!place_meeting(x + knockback, y, obj_Floor1))
+    {
+        x += knockback;
+    }
+
+   
+    knockback *= 0.8;
+
+    
+    if (abs(knockback) < 0.2)
+    {
+        knockback = 0;
+    }
 }

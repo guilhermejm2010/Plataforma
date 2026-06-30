@@ -46,6 +46,7 @@
     {"id":{"name":"spr_katana","path":"sprites/spr_katana/spr_katana.yy",},},
     {"id":{"name":"spr_main_left_jump_still","path":"sprites/spr_main_left_jump_still/spr_main_left_jump_still.yy",},},
     {"id":{"name":"spr_main_left_jump","path":"sprites/spr_main_left_jump/spr_main_left_jump.yy",},},
+    {"id":{"name":"spr_main_left_katana_ataque","path":"sprites/spr_main_left_katana_ataque/spr_main_left_katana_ataque.yy",},},
     {"id":{"name":"spr_main_left_katana","path":"sprites/spr_main_left_katana/spr_main_left_katana.yy",},},
     {"id":{"name":"spr_main_left_punch","path":"sprites/spr_main_left_punch/spr_main_left_punch.yy",},},
     {"id":{"name":"spr_main_left","path":"sprites/spr_main_left/spr_main_left.yy",},},

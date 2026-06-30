@@ -26,6 +26,7 @@
     {"name":"spr_katana","order":9,"path":"sprites/spr_katana/spr_katana.yy",},
     {"name":"spr_main_left_jump_still","order":7,"path":"sprites/spr_main_left_jump_still/spr_main_left_jump_still.yy",},
     {"name":"spr_main_left_jump","order":6,"path":"sprites/spr_main_left_jump/spr_main_left_jump.yy",},
+    {"name":"spr_main_left_katana_ataque","order":17,"path":"sprites/spr_main_left_katana_ataque/spr_main_left_katana_ataque.yy",},
     {"name":"spr_main_left_katana","order":3,"path":"sprites/spr_main_left_katana/spr_main_left_katana.yy",},
     {"name":"spr_main_left_punch","order":14,"path":"sprites/spr_main_left_punch/spr_main_left_punch.yy",},
     {"name":"spr_main_left","order":1,"path":"sprites/spr_main_left/spr_main_left.yy",},
