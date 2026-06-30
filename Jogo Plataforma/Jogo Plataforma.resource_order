@@ -27,6 +27,7 @@
     {"name":"spr_main_left_jump","order":6,"path":"sprites/spr_main_left_jump/spr_main_left_jump.yy",},
     {"name":"spr_main_left_katana","order":3,"path":"sprites/spr_main_left_katana/spr_main_left_katana.yy",},
     {"name":"spr_main_left","order":1,"path":"sprites/spr_main_left/spr_main_left.yy",},
+    {"name":"spr_main_right_jump_still_katana","order":12,"path":"sprites/spr_main_right_jump_still_katana/spr_main_right_jump_still_katana.yy",},
     {"name":"spr_main_right_jump_still","order":5,"path":"sprites/spr_main_right_jump_still/spr_main_right_jump_still.yy",},
     {"name":"spr_main_right_jump","order":4,"path":"sprites/spr_main_right_jump/spr_main_right_jump.yy",},
     {"name":"spr_main_rigth","order":8,"path":"sprites/spr_main_rigth/spr_main_rigth.yy",},
