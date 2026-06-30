@@ -37,7 +37,7 @@
   ],
   "name":"spr_main_left_punch",
   "nineSlice":null,
-  "origin":1,
+  "origin":7,
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -132,7 +132,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":32,
-    "yorigin":0,
+    "yorigin":64,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

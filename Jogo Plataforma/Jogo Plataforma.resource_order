@@ -17,11 +17,13 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_camera","order":5,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_floor1_1","order":2,"path":"objects/obj_floor1_1/obj_floor1_1.yy",},
     {"name":"obj_Floor1","order":1,"path":"objects/obj_Floor1/obj_Floor1.yy",},
     {"name":"obj_inimigo","order":4,"path":"objects/obj_inimigo/obj_inimigo.yy",},
     {"name":"obj_katana","order":3,"path":"objects/obj_katana/obj_katana.yy",},
     {"name":"spr_floor1_1","order":11,"path":"sprites/spr_floor1_1/spr_floor1_1.yy",},
+    {"name":"spr_floor1_2","order":18,"path":"sprites/spr_floor1_2/spr_floor1_2.yy",},
     {"name":"spr_floor1","order":10,"path":"sprites/spr_floor1/spr_floor1.yy",},
     {"name":"spr_katana","order":9,"path":"sprites/spr_katana/spr_katana.yy",},
     {"name":"spr_main_left_jump_still","order":7,"path":"sprites/spr_main_left_jump_still/spr_main_left_jump_still.yy",},

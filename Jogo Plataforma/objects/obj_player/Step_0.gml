@@ -6,7 +6,7 @@ horizontalspeed = move * 4;
 
 if (keyboard_check_pressed(ord("W")) && jumps < max_jumps)
 {
-	effect_time = 10;
+	
     verticalspeed = jump_force;
     jumps++;
 }
@@ -87,10 +87,7 @@ if(katanaon)
 }
 }
 
-if (effect_time > 0)
-{
-    effect_time--;
-}	
+	
 
 if(!katanaon)
 {
