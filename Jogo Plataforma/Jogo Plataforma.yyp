@@ -50,6 +50,7 @@
     {"id":{"name":"obj_inimigo","path":"objects/obj_inimigo/obj_inimigo.yy",},},
     {"id":{"name":"obj_katana","path":"objects/obj_katana/obj_katana.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_rock","path":"objects/obj_rock/obj_rock.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_floor1_1","path":"sprites/spr_floor1_1/spr_floor1_1.yy",},},
     {"id":{"name":"spr_floor1_2","path":"sprites/spr_floor1_2/spr_floor1_2.yy",},},

@@ -31,6 +31,7 @@
     {"name":"obj_floor1","order":1,"path":"objects/obj_floor1/obj_floor1.yy",},
     {"name":"obj_inimigo","order":4,"path":"objects/obj_inimigo/obj_inimigo.yy",},
     {"name":"obj_katana","order":3,"path":"objects/obj_katana/obj_katana.yy",},
+    {"name":"obj_rock","order":15,"path":"objects/obj_rock/obj_rock.yy",},
     {"name":"spr_floor1_1","order":11,"path":"sprites/spr_floor1_1/spr_floor1_1.yy",},
     {"name":"spr_floor1_2","order":18,"path":"sprites/spr_floor1_2/spr_floor1_2.yy",},
     {"name":"spr_floor1_3","order":19,"path":"sprites/spr_floor1_3/spr_floor1_3.yy",},
