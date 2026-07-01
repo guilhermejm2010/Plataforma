@@ -10,7 +10,7 @@ jump_force = -8;
 
 on_ground = false
 
-max_jumps = 2; 
+max_jumps = 3; 
 jumps = 0;  
 
 katanaon = false
