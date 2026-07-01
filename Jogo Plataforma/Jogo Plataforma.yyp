@@ -49,6 +49,7 @@
     {"id":{"name":"obj_floor1","path":"objects/obj_floor1/obj_floor1.yy",},},
     {"id":{"name":"obj_inimigo","path":"objects/obj_inimigo/obj_inimigo.yy",},},
     {"id":{"name":"obj_katana","path":"objects/obj_katana/obj_katana.yy",},},
+    {"id":{"name":"obj_player_spirit","path":"objects/obj_player_spirit/obj_player_spirit.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_rock","path":"objects/obj_rock/obj_rock.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

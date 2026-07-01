@@ -1,7 +1,6 @@
 
 verticalspeed += gravity1;
-if (!spirit_mode)
-{
+
 var move = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 horizontalspeed = move * 4;
 
@@ -122,32 +121,3 @@ if (atacando)
         atacando = false;
     }
 }
-}
-
-if (keyboard_check_pressed(ord("E")))
-{
-    if (!spirit_mode)
-    {
-        
-        spirit = instance_create_layer(x, y, "Instances", obj_player_spirit);
-		obj_camera.target = spirit;
-        spirit_mode = true;
-		
-
-        
-        image_alpha = 1;
-    }
-    else
-    {
-       
-        x = spirit.x;
-        y = spirit.y;
-
-        instance_destroy(spirit);
-
-        spirit_mode = false;
-		obj_camera.target = id;
-        visible = true;
-		
-    }
-}	

@@ -18,5 +18,4 @@ katanaon = false
 atacando = false;
 attack_damage = 0;
 
-spirit_mode = false;
-spirit = noone;
+image_alpha = 0.5; // transparente
