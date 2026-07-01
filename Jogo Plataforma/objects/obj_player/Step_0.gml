@@ -11,9 +11,9 @@ if (keyboard_check_pressed(ord("W")) && jumps < max_jumps)
     jumps++;
 }
 
-if (place_meeting(x, y + verticalspeed, obj_Floor1))
+if (place_meeting(x, y + verticalspeed, obj_floor1))
 {
-    while (!place_meeting(x, y + sign(verticalspeed), obj_Floor1))
+    while (!place_meeting(x, y + sign(verticalspeed), obj_floor1))
     {
         y += sign(verticalspeed);
     }
@@ -27,9 +27,9 @@ else
 
 
 
-if (place_meeting(x + horizontalspeed, y, obj_Floor1))
+if (place_meeting(x + horizontalspeed, y, obj_floor1))
 {
-    while (!place_meeting(x + sign(horizontalspeed), y, obj_Floor1))
+    while (!place_meeting(x + sign(horizontalspeed), y, obj_floor1))
     {
         x += sign(horizontalspeed);
     }
@@ -41,7 +41,7 @@ else
     x += horizontalspeed;
 }
 
-on_ground = place_meeting(x, y + 1, obj_Floor1);
+on_ground = place_meeting(x, y + 1, obj_floor1);
 
 if (on_ground)
 {
