@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_floor1_1",
+  "%Name":"obj_floor",
   "eventList":[],
   "managed":true,
-  "name":"obj_floor1_1",
+  "name":"obj_floor",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
     "path":"folders/Objetos.yy",
   },
-  "parentObjectId":{
-    "name":"obj_floor",
-    "path":"objects/obj_floor/obj_floor.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_floor1_1",
-    "path":"sprites/spr_floor1_1/spr_floor1_1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
